@@ -24,3 +24,16 @@ C:\Users\techb\documents\visual studio 2010\Projects\msnotepadclone\msnotepadclo
 C:\Users\techb\documents\visual studio 2010\Projects\msnotepadclone\msnotepadclone\obj\x86\Debug\msnotepadclone.exe
 C:\Users\techb\documents\visual studio 2010\Projects\msnotepadclone\msnotepadclone\obj\x86\Debug\msnotepadclone.xml
 C:\Users\techb\documents\visual studio 2010\Projects\msnotepadclone\msnotepadclone\obj\x86\Debug\msnotepadclone.pdb
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.exe
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.xml
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.pdb
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\bin\Debug\msnotepadclone.exe.manifest
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\bin\Debug\msnotepadclone.application
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\bin\Debug\msnotepadclone.exe
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\bin\Debug\msnotepadclone.pdb
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\bin\Debug\msnotepadclone.xml
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.Form1.resources
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.Resources.resources
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.vbproj.GenerateResource.Cache
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.exe.manifest
+C:\Users\bedan\Documents\Visual Studio 2010\Projects\WinNOTE-main\msnotepadclone\obj\x86\Debug\msnotepadclone.application
